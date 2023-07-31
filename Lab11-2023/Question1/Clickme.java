@@ -4,15 +4,10 @@
  */
 package com.mycompany.question1;
 
-/**
- *
- * @author Umesha
- */
+
 public class Clickme extends javax.swing.JFrame {
 
-    /**
-     * Creates new form Clickme
-     */
+   
     public Clickme() {
         initComponents();
     }
